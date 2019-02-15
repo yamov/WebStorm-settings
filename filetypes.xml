@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="apple-app-site-association" type="JSON" />
+      <mapping pattern="sentry-cli" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.storybook" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="entitlements" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

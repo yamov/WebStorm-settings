@@ -1,0 +1,7 @@
+<templateSet group="Generic">
+  <template name="´" value="`" description="Backtick workaround" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

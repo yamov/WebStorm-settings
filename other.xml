@@ -1,0 +1,73 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/11.2.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.14.2/bin/node">
+      <version-cache version="10.14.2" last-modified="1544476608000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/10.11.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.59045225" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6993464" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DiffRequestProcessor.BottomComponentSplitter" value="0.9509876" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="Github.PullRequests.Component" value="0.37109658" />
+    <property name="HOST_KEYlandingpage" value="localhost" />
+    <property name="InstalledPluginsSearchHistory" value="sett&#10;sto&#10;save actions&#10;hid&#10;empty line" />
+    <property name="JestJavaScriptTestRunnerSupport.hideIgnoredTests" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.hidePassedTests" value="false" />
+    <property name="JestJavaScriptTestRunnerSupport.scrollToSource" value="true" />
+    <property name="JestJavaScriptTestRunnerSupport.selectFirtsDefect" value="true" />
+    <property name="KEYMAP" value="last ed&#10;remove tag" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesCoffeeScript" value="false" />
+    <property name="PLUGIN_FILTER" value="flow&#10;styled&#10;manip&#10;stri" />
+    <property name="PORT_KEYlandingpage" value="6006" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="Partn&#10;pac&#10;App&#10;hookUt&#10;profile/" />
+    <property name="SettingsSearchHistory" value="plu&#10;file wat&#10;font&#10;eslin&#10;prett" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.48080808" />
+    <property name="StringManipulation.SortAction.SortSettings" value="CASE_INSENSITIVE_A_Z|REMOVE|true|true|false|,;" />
+    <property name="StringManipulation.SortLinesBySubSelectionAction.SortSettings" value="CASE_INSENSITIVE_A_Z|REMOVE|true|false|false|,;" />
+    <property name="TrendingPluginsSearchHistory" value="story&#10;node.js&#10;save a&#10;font size&#10;eslint" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="emmet.last.wrap.abbreviations" value="div" />
+    <property name="emmet.recent.wrap.abbreviations" value="div" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/dev/safe-app-ionic/src&#10;/Users/yamov/dev/landingpage/app&#10;/Users/yamov/dev/website-react/client" />
+    <property name="file.gist.reindex.count" value="434691" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="find.popup.splitter" value="0.15230961" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.var.names.completion" value="false" />
+    <property name="param.hints.settings.last.edited.language" value="JavaScript" />
+    <property name="search.everywhere.max.popup.width" value="661" />
+    <property name="selected.color.option.type" value="FOLDED_TEXT_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Imports" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
