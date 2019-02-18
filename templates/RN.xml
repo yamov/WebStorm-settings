@@ -11,7 +11,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rel" value="React$Element&lt;*&gt;" description="React$Element&lt;*&gt;" toReformat="false" toShortenFQNames="true" />
+  <template name="rel" value="React$Element&lt;*&gt;" description="React$Element&lt;*&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
   <template name="msp" value="const mapStateToProps = (state: ReduxState, ownProps: OwnProps): MappedStateProps =&gt; ({&#10;  $END$&#10;})" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
