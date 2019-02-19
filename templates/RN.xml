@@ -1,17 +1,22 @@
 <templateSet group="RN">
-  <template name="rpc" value="class $COMPONENT$ extends PureComponent&lt;Props&gt; {&#10;  render = (): React$Element&lt;*&gt; =&gt; (&#10;    $END$&#10;  )&#10;}&#10;&#10;export default $COMPONENT$" description="Creates React PureComponent class" toReformat="true" toShortenFQNames="true">
+  <template name="rpc" value="class $COMPONENT$ extends PureComponent&lt;Props&gt; {&#10;  render = (): React$Element&lt;*&gt; =&gt; (&#10;    $END$&#10;  )&#10;}&#10;&#10;export default $COMPONENT$" description="Creates React PureComponent class" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rsc" value="const $COMPONENT$ = (props: Props): React$Element&lt;*&gt; =&gt; (&#10;&#10;)&#10;&#10;export default $COMPONENT$" description="Creates React stateless component" toReformat="true" toShortenFQNames="true">
+  <template name="rsc" value="const $COMPONENT$ = (props: Props): React$Element&lt;*&gt; =&gt; (&#10;&#10;)&#10;&#10;export default $COMPONENT$" description="Creates React stateless component" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rel" value="React$Element&lt;*&gt;" description="React$Element&lt;*&gt;" toReformat="false" toShortenFQNames="true" />
+  <template name="rel" value="React$Element&lt;*&gt;" description="React$Element&lt;*&gt; type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
   <template name="msp" value="const mapStateToProps = (state: ReduxState, ownProps: OwnProps): MappedStateProps =&gt; ({&#10;  $END$&#10;})" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
