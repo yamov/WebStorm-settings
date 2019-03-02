@@ -12,6 +12,7 @@
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="h-2dfpoihoizxhg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

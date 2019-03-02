@@ -91,6 +91,14 @@
     <keyboard-shortcut first-keystroke="tab" />
     <mouse-shortcut keystroke="control meta alt button1" />
   </action>
+  <action id="TabShiftActions.StretchLeft">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt left" />
+  </action>
+  <action id="TabShiftActions.StretchRight">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt right" />
+  </action>
   <action id="Tool_External Tools_ESLint Fix">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
