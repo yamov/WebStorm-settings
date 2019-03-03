@@ -32,4 +32,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="msp" value="const mapStateToProps = (state: ReduxState, ownProps: OwnProps): MappedStateProps =&gt; ({&#10;  &#10;})" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="iu" value="import * as utils from 'app/services/utils'" description="import utils" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
