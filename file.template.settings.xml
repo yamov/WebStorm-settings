@@ -1,9 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="React Class Component.js" reformat="false" live-template-enabled="true" />
-      <template name="React Stateless Component.js" reformat="false" live-template-enabled="true" />
-      <template name="RN styles.js" reformat="false" live-template-enabled="true" />
+      <template name="React FC.js" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
