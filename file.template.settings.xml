@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Flow types.js" reformat="false" live-template-enabled="true" />
+      <template name="React FC.js" reformat="false" live-template-enabled="true" />
+      <template name="RN styles.js" reformat="false" live-template-enabled="true" />
+    </default_templates>
+    <internal_templates>
+      <template name="HTML File.html" reformat="false" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
