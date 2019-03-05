@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="da4e8a77-dc3f-434e-a1a7-d272686fbd71" name="yamov">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
