@@ -70,7 +70,7 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="Javascript.Linters.EsLint.Fix">
-    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="alt #10000b4" />
@@ -82,7 +82,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
   <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
