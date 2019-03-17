@@ -36,13 +36,7 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="3">
+    <group value="RenameElement" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
