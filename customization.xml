@@ -42,5 +42,6 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="Tool_External Tools_Get Flow type" icon="$USER_HOME$/Documents/WebStorm settings/icons/Flow.png" />
   </component>
 </application>
