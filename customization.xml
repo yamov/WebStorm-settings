@@ -36,6 +36,6 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="RenameElement" icon="$USER_HOME$/Downloads/R.png" />
+    <action id="RenameElement" icon="$USER_HOME$/Downloads/Rename.png" />
   </component>
 </application>
