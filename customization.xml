@@ -30,13 +30,19 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="1">
+    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="2">
+    <group value="Vcs.ShowTabbedFileHistory" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RenameElement" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -44,5 +50,6 @@
     </group>
     <action id="RenameElement" icon="$USER_HOME$/Documents/WebStorm settings/icons/Rename.png" />
     <action id="Tool_External Tools_Get Flow type" icon="$USER_HOME$/Documents/WebStorm settings/icons/Flow.png" />
+    <action id="Vcs.ShowTabbedFileHistory" icon="$USER_HOME$/Documents/WebStorm settings/icons/Git.png" />
   </component>
 </application>
