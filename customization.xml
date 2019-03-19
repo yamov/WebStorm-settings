@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="4">
+    <group value="TouchBarDefaultOptionalGroup" is_group="true" action_type="-1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -30,6 +30,12 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="TouchBarDefaultOptionalGroup" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Github.View.Pull.Request" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
@@ -37,6 +43,18 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
