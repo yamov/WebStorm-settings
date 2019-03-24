@@ -6,18 +6,6 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Stop" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
@@ -48,13 +36,31 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="2">
+    <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="3">
+    <group seperator="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
