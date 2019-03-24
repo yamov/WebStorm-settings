@@ -6,6 +6,12 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
@@ -30,31 +36,25 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TouchBarDefaultOptionalGroup" is_group="true" action_type="1" position="0">
+    <group value="Github.View.Pull.Request" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Github.View.Pull.Request" is_action="true" action_type="1" position="1">
+    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="2">
+    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="5">
+    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
