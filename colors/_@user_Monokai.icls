@@ -4,7 +4,7 @@
     <property name="created">2016-12-06T11:20:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2019-04-02T16:31:57</property>
+    <property name="modified">2019-04-02T17:45:55</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
