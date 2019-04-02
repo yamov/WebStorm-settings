@@ -4,12 +4,18 @@
     <property name="created">2016-12-06T11:20:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2019-04-02T11:52:21</property>
+    <property name="modified">2019-04-02T16:21:52</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Courier New" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
