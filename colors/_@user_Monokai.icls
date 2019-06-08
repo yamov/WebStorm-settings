@@ -4,14 +4,13 @@
     <property name="created">2016-12-06T11:20:04</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2019-06-08T22:00:28</property>
+    <property name="modified">2019-06-08T22:03:58</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Courier New" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
