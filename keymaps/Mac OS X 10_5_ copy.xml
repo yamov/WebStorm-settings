@@ -72,6 +72,10 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt less" />
   </action>
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta less" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
