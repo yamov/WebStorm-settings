@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditSourceInNewWindow">
+    <keyboard-shortcut first-keystroke="shift f4" />
+    <keyboard-shortcut first-keystroke="ctrl alt less" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
