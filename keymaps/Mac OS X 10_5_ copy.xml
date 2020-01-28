@@ -80,6 +80,9 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
