@@ -6,8 +6,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="yamov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:nxt-insurance/react-native-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
