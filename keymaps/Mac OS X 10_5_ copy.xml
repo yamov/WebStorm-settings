@@ -5,6 +5,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl meta alt w" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
