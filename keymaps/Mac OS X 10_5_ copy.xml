@@ -52,6 +52,9 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt equals" />
   </action>
+  <action id="GenerateLatinAction">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl meta alt b" />
   </action>
