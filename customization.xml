@@ -24,25 +24,25 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Github.View.Pull.Request" is_action="true" action_type="1" position="0">
+    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Tool_External Tools_Get Flow type" is_action="true" action_type="1" position="1">
+    <group seperator="true" action_type="1" position="1">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="2">
+    <group value="RecentLocations" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RecentLocations" is_action="true" action_type="1" position="5">
+    <group seperator="true" action_type="1" position="5">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
@@ -54,19 +54,13 @@
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="7">
+    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="7">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TabShiftActions.StretchLeft" is_action="true" action_type="1" position="8">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="9">
+    <group value="TabShiftActions.StretchRight" is_action="true" action_type="1" position="8">
       <path value="root" />
       <path value="Touch Bar" />
       <path value="Default" />
