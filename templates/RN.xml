@@ -64,7 +64,13 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ist" value="import styled from 'styled-components'" description="import styled from 'styled-components'" toReformat="false" toShortenFQNames="true">
+  <template name="stc" value="const $COMPONENT$ = styled.`${styles.}`&#10;" description="Styled component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ist" value="import styled from 'styled-components'" description="import styled" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
