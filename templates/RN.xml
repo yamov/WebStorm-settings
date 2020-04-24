@@ -59,4 +59,14 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="iss" value="import * as styles from './styles'" description="import * as styles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ist" value="import styled from 'styled-components'" description="import styled from 'styled-components'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
