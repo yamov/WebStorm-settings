@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="HTML File.html" reformat="false" live-template-enabled="true" enabled="true" />
-      <template name="JavaScript File.js" reformat="false" live-template-enabled="true" enabled="true" />
-    </internal_templates>
-  </component>
-</application>
