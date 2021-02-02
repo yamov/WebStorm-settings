@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern="apple-app-site-association" type="JSON" />
       <mapping pattern=".env.storybook" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
