@@ -78,6 +78,7 @@
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="alt #10000b4" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt m" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt less" />
