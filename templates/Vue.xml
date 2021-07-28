@@ -24,11 +24,9 @@
   </template>
   <template name="vdec" value="return this.$variable$ -= 1;" description="Decrement value" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="variable" expression="" defaultValue="&quot;num&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vinc" value="return this.$variable$ += 1;" description="Increment value" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="variable" expression="" defaultValue="&quot;num&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vcomputed" value="computed: {&#10; $name$() {&#10;  return this.$data$ $END$;&#10; }&#10;}," description="Computed value" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
@@ -68,7 +66,6 @@
   </template>
   <template name="vimport-c" value="components: {&#10; $New$,&#10;}" description="Import Vue component into another, within export statement" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="New" expression="" defaultValue="&quot;New&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="vmethod" value="methods: {&#10; $name$() {&#10;  $END$&#10; }&#10;}," description="Vue method" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
@@ -159,7 +156,5 @@
     <variable name="event" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="vbase" value="&lt;template&gt;&#10; &lt;div&gt;&#10;&#10; &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10; export default {&#10;  $END$&#10; }&#10;&lt;/script&gt;&#10;&#10;&lt;style scoped&gt;&#10;&#10;&lt;/style&gt;" description="Vue single file component" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="vbase" value="&lt;template&gt;&#10; &lt;div&gt;&#10;&#10; &lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10; export default {&#10;  $END$&#10; }&#10;&lt;/script&gt;&#10;&#10;&lt;style scoped&gt;&#10;&#10;&lt;/style&gt;" description="Vue single file component" toReformat="true" toShortenFQNames="true" deactivated="true" />
 </templateSet>
