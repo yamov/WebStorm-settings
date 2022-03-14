@@ -18,6 +18,11 @@
       <mapping ext="h-2dfpoihoizxhg" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -27,11 +32,6 @@
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern="recommendations.js" approved="true" type="PLAIN_TEXT" />
-      <mapping ext=".model" type="Tabnine project model file" />
-      <mapping ext=".tabnine" type="Tabnine project model file" />
-      <mapping ext=".tabnine.model" type="Tabnine project model file" />
-      <mapping ext="model" type="Tabnine project model file" />
-      <mapping ext="tabnine" type="Tabnine project model file" />
     </extensionMap>
   </component>
 </application>
