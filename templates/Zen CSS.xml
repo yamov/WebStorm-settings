@@ -23,7 +23,6 @@
   <template name="@media" value="@media $VAR0$ {&#10;  $VAR1$&#10;}" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;screen&quot;" alwaysStopAt="true" />
     <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="@f" value="@font-face {&#10;  font-family:$VAR0$;&#10;  src:url($VAR1$);&#10;}" description="" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
