@@ -67,6 +67,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="ctrl meta alt c" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
+  </action>
   <action id="Github.View.Pull.Request">
     <keyboard-shortcut first-keystroke="ctrl meta alt v" />
   </action>

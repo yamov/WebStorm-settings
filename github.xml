@@ -1,10 +1,11 @@
 <application>
   <component name="GithubAccounts">
-    <account id="d462f396-68c9-4333-9b29-eda9badeaa05" name="yamov">
+    <account name="yamov" id="d462f396-68c9-4333-9b29-eda9badeaa05">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
 </application>
