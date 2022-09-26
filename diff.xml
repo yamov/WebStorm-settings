@@ -68,6 +68,7 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+          <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
     </option>
