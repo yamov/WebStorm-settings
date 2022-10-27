@@ -18,4 +18,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="lgs" value="console.log('$VALUE$', JSON.stringify($VALUE$, null, 2))" description="Log stringified" toReformat="false" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
