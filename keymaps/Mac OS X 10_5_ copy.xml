@@ -8,6 +8,11 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl meta alt w" />
   </action>
@@ -32,6 +37,8 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="EditSourceInNewWindow">
     <keyboard-shortcut first-keystroke="shift f4" />
     <keyboard-shortcut first-keystroke="ctrl alt less" />
@@ -57,6 +64,11 @@
   </action>
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
   <action id="GenerateLatinAction">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -92,6 +104,7 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt less" />
   </action>
+  <action id="NextEditorTab" />
   <action id="NextWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
     <keyboard-shortcut first-keystroke="meta less" />
@@ -99,6 +112,7 @@
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl meta alt o" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
